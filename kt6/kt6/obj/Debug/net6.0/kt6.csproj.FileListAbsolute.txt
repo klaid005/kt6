@@ -1,0 +1,15 @@
+C:\Users\Пользователь\Desktop\kt6\kt6\kt6\bin\Debug\net6.0\kt6.exe
+C:\Users\Пользователь\Desktop\kt6\kt6\kt6\bin\Debug\net6.0\kt6.deps.json
+C:\Users\Пользователь\Desktop\kt6\kt6\kt6\bin\Debug\net6.0\kt6.runtimeconfig.json
+C:\Users\Пользователь\Desktop\kt6\kt6\kt6\bin\Debug\net6.0\kt6.dll
+C:\Users\Пользователь\Desktop\kt6\kt6\kt6\bin\Debug\net6.0\kt6.pdb
+C:\Users\Пользователь\Desktop\kt6\kt6\kt6\obj\Debug\net6.0\kt6.csproj.AssemblyReference.cache
+C:\Users\Пользователь\Desktop\kt6\kt6\kt6\obj\Debug\net6.0\kt6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Пользователь\Desktop\kt6\kt6\kt6\obj\Debug\net6.0\kt6.AssemblyInfoInputs.cache
+C:\Users\Пользователь\Desktop\kt6\kt6\kt6\obj\Debug\net6.0\kt6.AssemblyInfo.cs
+C:\Users\Пользователь\Desktop\kt6\kt6\kt6\obj\Debug\net6.0\kt6.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Desktop\kt6\kt6\kt6\obj\Debug\net6.0\kt6.dll
+C:\Users\Пользователь\Desktop\kt6\kt6\kt6\obj\Debug\net6.0\refint\kt6.dll
+C:\Users\Пользователь\Desktop\kt6\kt6\kt6\obj\Debug\net6.0\kt6.pdb
+C:\Users\Пользователь\Desktop\kt6\kt6\kt6\obj\Debug\net6.0\kt6.genruntimeconfig.cache
+C:\Users\Пользователь\Desktop\kt6\kt6\kt6\obj\Debug\net6.0\ref\kt6.dll
